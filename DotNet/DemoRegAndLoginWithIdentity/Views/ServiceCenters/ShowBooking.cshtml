@@ -1,0 +1,86 @@
+﻿@model IEnumerable<DemoRegAndLoginWithIdentity.Models.Booking>
+
+@{
+    ViewData["Title"] = "Showbooking";
+}
+
+<h1>Showbooking</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MobileNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VehicleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VehicleRegistrationNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceCenter)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceDesc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MobileNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VehicleName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VehicleRegistrationNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceCenter)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceDesc)
+            </td>
+            <td>
+                    <button class="btn btn-primary" type="submit" onclick="redirectToRegistration()">Send Message</button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<script>
+
+    function redirectToRegistration() {
+        window.open('https://www.gmail.com', '_blank');
+    }
+
+</script>

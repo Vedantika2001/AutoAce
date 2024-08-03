@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DemoRegAndLoginWithIdentity",
+    "\\DemoRegAndLoginWithIdentity\\Controllers",
+    "\\DemoRegAndLoginWithIdentity\\Models",
+    "\\DemoRegAndLoginWithIdentity\\Views",
+    "\\DemoRegAndLoginWithIdentity\\Views\\AddServices",
+    "\\DemoRegAndLoginWithIdentity\\Views\\Admin",
+    "\\DemoRegAndLoginWithIdentity\\Views\\Bookings",
+    "\\DemoRegAndLoginWithIdentity\\Views\\BookingServices",
+    "\\DemoRegAndLoginWithIdentity\\Views\\Home"
+  ],
+  "SelectedNode": "\\DemoRegAndLoginWithIdentity\\Controllers\\AddServicesController.cs",
+  "PreviewInSolutionExplorer": false
+}

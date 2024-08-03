@@ -1,0 +1,48 @@
+﻿@model IEnumerable<DemoRegAndLoginWithIdentity.Models.Contact>
+
+@{
+    ViewData["Title"] = "GetContact";
+}
+
+<h1>GetContact</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.mobile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.comment)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.comment)
+            </td>
+            <td>
+                    
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-success">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

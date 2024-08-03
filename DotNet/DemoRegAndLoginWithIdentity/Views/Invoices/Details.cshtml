@@ -1,0 +1,106 @@
+﻿@model DemoRegAndLoginWithIdentity.Models.Invoice
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+Copy code
+<div>
+    <h4>Invoice</h4>
+    <h2>🛠️AutoAce</h2>
+    <hr />
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Customer Name</th>
+                <td>@Html.DisplayFor(model => model.CustomerName)</td>
+            </tr>
+            <tr>
+                <th>Customer Address</th>
+                <td>@Html.DisplayFor(model => model.CustomerAddress)</td>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <td>@Html.DisplayFor(model => model.Email)</td>
+            </tr>
+            <tr>
+                <th>Service Center Name</th>
+                <td>@Html.DisplayFor(model => model.ServiceCenterName)</td>
+            </tr>
+            <tr>
+                <th>Service Center Address</th>
+                <td>@Html.DisplayFor(model => model.ServiceCenterAddress)</td>
+            </tr>
+            <tr>
+                <th>Description</th>
+                <td>@Html.DisplayFor(model => model.Description)</td>
+            </tr>
+            <tr>
+                <th>Amount</th>
+                <td>@Html.DisplayFor(model => model.Amount)</td>
+            </tr>
+            <tr>
+                <th>Vehicle Name</th>
+                <td>@Html.DisplayFor(model => model.VehicleName)</td>
+            </tr>
+            <tr>
+                <th>Vehicle Registration Number</th>
+                <td>@Html.DisplayFor(model => model.VehicleRegistrationNumber)</td>
+            </tr>
+            <tr>
+                <th>Invoice Date</th>
+                <td>@Html.DisplayFor(model => model.InvoiceDate)</td>
+            </tr>
+            <tr>
+                <th>Invoice Due Date</th>
+                <td>@Html.DisplayFor(model => model.InvoiceDueDate)</td>
+            </tr>
+            <tr>
+                <th>Mobile Number</th>
+                <td>@Html.DisplayFor(model => model.MobileNo)</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.InvoiceId" id="edit">Edit</a> |
+    <a asp-action="Index" id="back">Back to List</a>
+    <button class="btn btn-outline-success ml-7" id="downloadLink" href="#" onclick="redirectToRegistration()">Save as Pdf</button>
+    <button class="btn btn-outline-success ml-7"  onclick="redirectToRegistration10()">Send</button>
+</div>
+
+<script>
+
+    function redirectToRegistration() {
+
+        var navbar = document.getElementById("navbar");
+        if (navbar) {
+            navbar.style.display = "none";
+        }
+        // Hide the link
+        var downloadLink = document.getElementById("downloadLink");
+        var downloadLink1 = document.getElementById("edit");
+        var downloadLink2 = document.getElementById("back");
+
+        downloadLink.style.display = "none";
+        downloadLink1.style.display = "none";
+        downloadLink2.style.display = "none";
+
+        // Initiate PDF generation and download
+        window.print();
+
+        // After the print operation is complete, show the link again
+        // You can add an event listener to the 'afterprint' event to handle this
+        window.addEventListener("afterprint", function () {
+            downloadLink.style.display = ""; // Revert to default display value
+        });
+
+    }
+</script>
+<script>
+
+    function redirectToRegistration10() {
+        window.open("https://www.gmail.com", "_blank");
+    }
+
+</script>

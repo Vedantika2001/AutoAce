@@ -1,0 +1,632 @@
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.csproj.AssemblyReference.cache
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.AssemblyInfoInputs.cache
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.AssemblyInfo.cs
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.csproj.CoreCompileInputs.cache
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.MvcApplicationPartsAssemblyInfo.cache
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.RazorAssemblyInfo.cache
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.RazorAssemblyInfo.cs
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\appsettings.Development.json
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\appsettings.json
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.staticwebassets.runtime.json
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.exe
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.deps.json
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.runtimeconfig.json
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.pdb
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Humanizer.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\MessagePack.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\MySql.Data.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\MySqlConnector.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Common.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.CodeDom.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Text.Json.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ZstdSharp.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.MvcApplicationPartsAssemblyInfo.cs
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets\msbuild.DemoRegAndLoginWithIdentity.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoRegAndLoginWithIdentity.props
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoRegAndLoginWithIdentity.props
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoRegAndLoginWithIdentity.props
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\bundle\DemoRegAndLoginWithIdentity.styles.css
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\projectbundle\DemoRegAndLoginWithIdentity.bundle.scp.css
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.csproj.CopyComplete
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\refint\DemoRegAndLoginWithIdentity.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.pdb
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.genruntimeconfig.cache
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\ref\DemoRegAndLoginWithIdentity.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\Views\Shared\_UserLayout.cshtml.rz.scp.css
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.sourcelink.json
+D:\Aspnet\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\Views\Shared\_ServiceLayout.cshtml.rz.scp.css
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\appsettings.Development.json
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\appsettings.json
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.staticwebassets.runtime.json
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.exe
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.deps.json
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.runtimeconfig.json
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\DemoRegAndLoginWithIdentity.pdb
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Google.Protobuf.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Humanizer.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\MessagePack.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Build.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\MySql.Data.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\MySqlConnector.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Common.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.CodeDom.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Text.Json.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ZstdSharp.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.csproj.AssemblyReference.cache
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.GeneratedMSBuildEditorConfig.editorconfig
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.AssemblyInfoInputs.cache
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.AssemblyInfo.cs
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.csproj.CoreCompileInputs.cache
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.MvcApplicationPartsAssemblyInfo.cs
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.MvcApplicationPartsAssemblyInfo.cache
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.RazorAssemblyInfo.cache
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.RazorAssemblyInfo.cs
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.sourcelink.json
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets.build.json
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets.development.json
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets\msbuild.DemoRegAndLoginWithIdentity.Microsoft.AspNetCore.StaticWebAssets.props
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoRegAndLoginWithIdentity.props
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoRegAndLoginWithIdentity.props
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoRegAndLoginWithIdentity.props
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\staticwebassets.pack.json
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\Views\Shared\_ServiceLayout.cshtml.rz.scp.css
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\Views\Shared\_UserLayout.cshtml.rz.scp.css
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\bundle\DemoRegAndLoginWithIdentity.styles.css
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\scopedcss\projectbundle\DemoRegAndLoginWithIdentity.bundle.scp.css
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.csproj.CopyComplete
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\refint\DemoRegAndLoginWithIdentity.dll
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.pdb
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\DemoRegAndLoginWithIdentity.genruntimeconfig.cache
+F:\CDAC\FinalProject1\Autoace_.net\asp.net autoace\demoregandlogin\DemoRegAndLoginWithIdentity\obj\Debug\net6.0\ref\DemoRegAndLoginWithIdentity.dll
